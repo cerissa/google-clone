@@ -1,0 +1,111 @@
+.topbar{
+	float: right;
+	margin-right: 20px;
+	margin-top:-10;
+	
+
+
+}
+
+.one{
+margin-right: 0px
+padding-left:20px;
+
+
+}
+
+.two{
+margin-right: 5px;
+padding-left: 20px;
+}
+
+.three{
+margin-right: 10px;
+padding-left: 20px;
+
+}
+.four{
+margin-right: 13px;
+padding-left: 20px;
+}
+img{
+	position: fixed;
+	top:38%;
+	left:45%;
+	margin-top: -50px;
+	margin-left: -80px;
+	height: 90px;
+	padding:-45px;
+
+}
+.searchbar{
+	position: absolute;
+   top:65%;
+  left: 50%;
+  margin-top: -60px;
+  margin-left: -80px;
+  width: 500px;
+  padding: 10px;
+
+}
+.bar{
+	position: fixed;
+	border: 1px solid #9D9D9D;
+	top:53%;
+  left: 32%;
+  margin-top: -20px;
+  margin-left: -50px;
+  width: auto;
+  z-index: 6;
+
+
+}
+
+.gs{
+ padding:6px;
+ border: 1px solid #6464FF;
+margin-left: -75px;
+
+}
+
+.lucky{
+padding:6px;
+border: 1px solid #808080;
+margin-left: 25px;
+
+}
+footer{
+position: fixed;
+display: inline;
+list-style-type: none
+ left:8px;
+   bottom:2px;
+   height:40px;
+   width:100%;
+   background-color: #F3F3F3;
+   border-top: 1px solid #DADBD5
+
+}
+li{
+	display: inline-block;
+	list-style-type: none;
+	
+	
+}
+
+.first{
+ 	float:left;
+margin-left: -20px;
+}
+
+
+.second{
+	float:right;
+	margin-right: 30px;
+
+
+}
+a:link{
+	text-decoration: none;
+	color:#7D7D7D;
+}
